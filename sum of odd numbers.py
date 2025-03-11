@@ -1,4 +1,4 @@
-pipdef sum(list):
+ sum(list):
     a=0
     for i in list:
        b=a%2
