@@ -6,3 +6,4 @@ pipdef sum(list):
     print(a)
 a=[1,2,3,4]
 sum (a)    
+product(a)
